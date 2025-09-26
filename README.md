@@ -1,6 +1,4 @@
 # python_operators
-python oprators
-<br>
 Python Operators
 <br>
 Arithmetic operators
